@@ -1,0 +1,1178 @@
+[
+  {
+    "type": "FlatLight",
+    "position": [
+      -1.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -4.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -7.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -10.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -13.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -16.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -19.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      -22.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      22.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      19.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      16.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      13.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      10.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      7.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      4.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "FlatLight",
+    "position": [
+      1.5,
+      20,
+      35
+    ],
+    "rotation": [
+      1,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 15908227,
+    "intensity": 0.58,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -6,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -2,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      2,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      6,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -22,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -18,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -14,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -10,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      10,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      14,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      18,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      22,
+      17,
+      20
+    ],
+    "rotation": [
+      0.35135165124586853,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -6,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -2,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      2,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      6,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -22,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -18,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -14,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -10,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      9.999999999999998,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      14,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      18,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      22,
+      17,
+      5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      0,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      5,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      10,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      15,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -20,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -15,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -10,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -5,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      20,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      0,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      5,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      10,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      15,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -20,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -15,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -10,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      -5,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "RGBLight",
+    "position": [
+      20,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 0.24,
+    "angle": 0.39269908169872414
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      -8,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 2,
+    "angle": 0.27,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      8,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 2,
+    "angle": 0.27,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      18,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 2,
+    "angle": 0.27,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      -18,
+      17,
+      -5
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 2,
+    "angle": 0.27,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      12,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 3,
+    "angle": 0.24,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      22,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 3,
+    "angle": 0.24,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      -12,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 3,
+    "angle": 0.24,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      -22,
+      17,
+      -15
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 3,
+    "angle": 0.24,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      -4,
+      17,
+      -15.323153527171561
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 3,
+    "angle": 0.24,
+    "focalLength": 10,
+    "beamLength": 14.5
+  },
+  {
+    "type": "BeamLight",
+    "position": [
+      4,
+      17,
+      -15.323153527171561
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      "XYZ"
+    ],
+    "color": 16777215,
+    "intensity": 3,
+    "angle": 0.24,
+    "focalLength": 10,
+    "beamLength": 14.5
+  }
+]
