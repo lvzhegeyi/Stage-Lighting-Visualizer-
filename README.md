@@ -36,6 +36,6 @@ A lightweight and easy-to-use **stage lighting visualizer** built with [three.js
 ```bash
 git clone https://github.com/your-username/stage-lighting-visualizer.git
 cd stage-lighting-visualizer
-
+```
 2、使用打包好的软件
 根据你的系统版本下载release中的文件，安装运行
